@@ -1,7 +1,5 @@
 - 👋 Hi, I'm Ayla Narciso 
 - 👀 I’m interested in Web Development, Graphic Design, and Cyber Security
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through aylaparayno@gmail.com 
 
 <!---
